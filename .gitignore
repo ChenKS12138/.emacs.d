@@ -1,0 +1,5 @@
+*
+!init.el
+!README.md
+!lisp/
+!elpa/.git.keep
